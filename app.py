@@ -16,7 +16,7 @@ rain(
 st.markdown("<h1 style='text-align: center; '>Мини-презентация :)</h1>", unsafe_allow_html = True)
 st.image('2.JPG')
 #st.balloons()
-st.write("Хотите узнать вкратце обо мне? Нажмите кнопку ниже.")
+st.write("Хотите вкратце узнать обо мне? Нажмите на кнопку ниже.")
     
 
 
