@@ -16,7 +16,7 @@ from streamlit_player import st_player
 st.markdown("<h1 style='text-align: center; '>Промежуточные итоги нетворкинга</h1>", unsafe_allow_html = True)
 st.image('777.JPG')
 #st.balloons()
-st.write("Хотите узнат ьитоги? Нажмите на кнопку ниже.")
+st.write("Хотите узнать итоги? Нажмите на кнопку ниже.")
     
 
 
