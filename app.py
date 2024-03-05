@@ -1,17 +1,17 @@
 import streamlit as st
-from streamlit_extras.let_it_rain import rain
+#from streamlit_extras.let_it_rain import rain
 from typing import Union
 from PIL import Image
 import time
 from streamlit_player import st_player
 
 
-rain(
-    emoji="УКР🔥",
-    font_size=25,
-    falling_speed=5,
-    animation_length="infinite",
-)
+#rain(
+   # emoji="УКР🔥",
+    #font_size=25,
+    #falling_speed=5,
+    #animation_length="infinite",
+#)
 
 st.markdown("<h1 style='text-align: center; '>Промежуточные итоги нетворкинга</h1>", unsafe_allow_html = True)
 st.image('777.JPG')
