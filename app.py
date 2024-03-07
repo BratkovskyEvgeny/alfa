@@ -13,7 +13,7 @@ rain(
     animation_length="infinite",
 )
 
-st.markdown("<h1 style='text-align: center; '>С международным женским днем!</h1>", unsafe_allow_html = True)
+st.markdown("<h1 style='text-align: center; '>С международным женским днём!</h1>", unsafe_allow_html = True)
 st.image('2.gif')
 #st.balloons()
 #st.write("Хотите узнать итоги? Нажмите на кнопку ниже.")
