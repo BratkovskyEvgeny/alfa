@@ -7,7 +7,7 @@ from streamlit_player import st_player
 
 
 rain(
-    emoji="❤️",
+    emoji="🌷",
     font_size=25,
     falling_speed=5,
     animation_length="infinite",
